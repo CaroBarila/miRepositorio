@@ -1,0 +1,1 @@
+let personas = ["mastias", "caro", "daiana"]
